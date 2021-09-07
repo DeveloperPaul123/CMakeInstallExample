@@ -37,7 +37,7 @@ cmake -B build
 To build an installer simply run:
 
 ```cmake
-cmake ./build --config Release --target package
+cmake --build ./build --config Release --target package
 ```
 
 ## Author
